@@ -1,0 +1,19 @@
+.bar-chart {
+    background-color:black;
+}
+
+.header-text{
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.block-text {
+    font-size: 9px;
+    color:white;
+}
+
+.block-text:hover{
+    font-size: 16px;
+    padding:10px;
+    background-color: #000000;
+}
