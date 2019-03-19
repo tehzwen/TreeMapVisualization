@@ -1,19 +1,30 @@
 .bar-chart {
-    background-color:black;
+    background-color: black;
 }
 
-.header-text{
-    font-size: 24px;
-    font-family: 'Courier New', Courier, monospace;
+.header-text {
+    font-size: 24px !important;
+    font-family: 'Courier New', Courier, monospace !important;
+    margin-left:5vh !important;
 }
 
 .block-text {
     font-size: 9px;
-    color:white;
+    color: white;
 }
 
-.block-text:hover{
+.category-thing {
+    font-size: 9px;
+    color: white;
+}
+
+.block-text:hover {
     font-size: 16px;
-    padding:10px;
-    background-color: #000000;
+    padding: 10px;
+    background-color: white;
+}
+
+.select-div {
+    margin-left: 5vh;
+    background-color: aqua;
 }
